@@ -1,7 +1,6 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
   <action id="AddToFavoritesPopup" />
   <action id="Back">
-    <keyboard-shortcut first-keystroke="alt left" />
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
@@ -60,7 +59,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
   </action>
   <action id="Forward">
-    <keyboard-shortcut first-keystroke="alt right" />
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
@@ -101,6 +99,14 @@
   <action id="KotlinShellExecute" />
   <action id="Maven.CollapseAll">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
+  </action>
+  <action id="MoveElementLeft">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
+  <action id="MoveElementRight">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+    <keyboard-shortcut first-keystroke="alt right" />
   </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="ctrl f6" />
