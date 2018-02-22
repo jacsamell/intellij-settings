@@ -9,6 +9,7 @@
       <mapping pattern="attachments-v3-test.yaml" type="PLAIN_TEXT" />
       <mapping ext="mk" type="PLAIN_TEXT" />
       <removed_mapping ext="feature" type="Substeps" />
+      <mapping pattern="series-without-latest" type="YAML" />
     </extensionMap>
   </component>
 </application>
