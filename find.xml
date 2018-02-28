@@ -5,8 +5,8 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*.fl</mask>
       <mask>*.ft</mask>
       <mask>*.ftl*</mask>
       <mask>s</mask>
@@ -36,6 +36,7 @@
       <mask>*.css</mask>
       <mask>*.feature</mask>
       <mask>*.yaml</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
