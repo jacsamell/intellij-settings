@@ -9,8 +9,8 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="sitemap.yaml" />
     <recentFileMasks>
-      <mask>*.ft</mask>
       <mask>*.ftl*</mask>
       <mask>s</mask>
       <mask>si</mask>
@@ -40,6 +40,7 @@
       <mask>*.feature</mask>
       <mask>*.yaml</mask>
       <mask>*.xml</mask>
+      <mask>sitemap.yaml</mask>
     </recentFileMasks>
   </component>
 </application>
