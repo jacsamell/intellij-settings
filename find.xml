@@ -11,6 +11,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ftl" />
     <recentFileMasks>
       <mask>s</mask>
       <mask>si</mask>
@@ -35,13 +36,13 @@
       <mask>*.[^(bin)]*</mask>
       <mask>*.less</mask>
       <mask>*steps.java</mask>
-      <mask>*.ftl</mask>
       <mask>*.css</mask>
       <mask>*.feature</mask>
       <mask>*.yaml</mask>
       <mask>*.xml</mask>
       <mask>sitemap.yaml</mask>
       <mask>*.cnd</mask>
+      <mask>*.ftl</mask>
     </recentFileMasks>
   </component>
 </application>
