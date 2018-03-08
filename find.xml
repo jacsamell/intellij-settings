@@ -2,16 +2,12 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
     <option name="showResultsInSeparateView" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.fltt</mask>
-      <mask>*.flt</mask>
-      <mask>*.fl</mask>
-      <mask>*.ft</mask>
-      <mask>*.ftl*</mask>
-      <mask>s</mask>
       <mask>si</mask>
       <mask>sit</mask>
       <mask>site</mask>
@@ -31,11 +27,17 @@
       <mask>*.featu</mask>
       <mask>*.featur</mask>
       <mask>pom*</mask>
-      <mask>*.feature</mask>
       <mask>*.[^(bin)]*</mask>
+      <mask>*.less</mask>
+      <mask>*steps.java</mask>
+      <mask>*.css</mask>
+      <mask>*.feature</mask>
+      <mask>*.xml</mask>
+      <mask>sitemap.yaml</mask>
+      <mask>*.cnd</mask>
       <mask>*.yaml</mask>
       <mask>*.ftl</mask>
-      <mask>*.less</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
