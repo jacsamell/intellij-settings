@@ -1,0 +1,14 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <ignored-resource url="http://commons.apache.org/scxml" />
+    <ignored-resource url="http://digital.nhs.uk/jcr/common/nt/1.0" />
+    <ignored-resource url="http://digital.nhs.uk/jcr/nationalindicatorlibrary/nt/1.0" />
+    <ignored-resource url="http://digital.nhs.uk/jcr/publicationsystem/nt/1.0" />
+    <ignored-resource url="http://digital.nhs.uk/repository/scxml" />
+    <ignored-resource url="http://digital.nhs.uk/scxml" />
+    <ignored-resource url="http://www.onehippo.org/cms7/repository/scxml" />
+    <ignored-resource url="http://www.onehippo.org/jcr/hippostd/nt/2.0" />
+    <ignored-resource url="http://www.onehippo.org/jcr/hippostdpubwf/nt/1.0" />
+    <ignored-resource url="http://www.w3.org/2005/07/scxml" />
+  </component>
+</application>
