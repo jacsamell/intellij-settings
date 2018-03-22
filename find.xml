@@ -6,7 +6,6 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>site</mask>
       <mask>sitem</mask>
       <mask>sitema</mask>
       <mask>sitemap</mask>
@@ -36,6 +35,7 @@
       <mask>*.feature</mask>
       <mask>make*</mask>
       <mask>*.yaml</mask>
+      <mask>domain*.yaml</mask>
     </recentFileMasks>
   </component>
 </application>
