@@ -2,42 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>sitem</mask>
-      <mask>sitema</mask>
-      <mask>sitemap</mask>
-      <mask>sitemap*</mask>
-      <mask>*ftl</mask>
-      <mask>*ft</mask>
-      <mask>*f</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.f</mask>
-      <mask>*.fe</mask>
-      <mask>*.fea</mask>
-      <mask>*.feat</mask>
-      <mask>*.featu</mask>
-      <mask>*.featur</mask>
-      <mask>pom*</mask>
-      <mask>*.[^(bin)]*</mask>
-      <mask>*.less</mask>
-      <mask>*steps.java</mask>
-      <mask>*.css</mask>
-      <mask>*.xml</mask>
-      <mask>sitemap.yaml</mask>
-      <mask>*.cnd</mask>
-      <mask>*.ftl</mask>
-      <mask>pom.xml</mask>
-      <mask>connectio.yaml</mask>
-      <mask>*.feature</mask>
-      <mask>make*</mask>
-      <mask>*.yaml</mask>
-      <mask>domain*.yaml</mask>
-    </recentFileMasks>
   </component>
 </application>
