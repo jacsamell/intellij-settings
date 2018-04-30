@@ -3,10 +3,13 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.yaml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -16,7 +19,6 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*stat*.yaml</mask>
-    <mask>*.yaml</mask>
     <mask>*.feature</mask>
     <mask>readme</mask>
     <mask>*.groovy</mask>
@@ -24,5 +26,6 @@
     <mask>*.cnd</mask>
     <mask>*.ftl</mask>
     <mask>pom.xml</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
