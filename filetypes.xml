@@ -13,6 +13,7 @@
       <removed_mapping ext="feature" type="Substeps" />
       <mapping ext="scxml" type="XML" />
       <mapping pattern="series-without-latest" type="YAML" />
+      <mapping pattern="high-charts-config" type="YAML" />
     </extensionMap>
   </component>
 </application>
