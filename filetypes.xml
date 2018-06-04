@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="less" type="CSS" />
       <mapping ext="feature" type="Cucumber" />
+      <mapping pattern="Migration20180604CleanUpEmbeddedResources" type="Groovy" />
       <mapping ext="ftlh" type="HTML" />
       <mapping ext="ftl" type="HTML" />
       <mapping pattern="*.json.ftl" type="JSON" />
