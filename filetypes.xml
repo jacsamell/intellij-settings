@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="less" type="CSS" />
       <mapping ext="feature" type="Cucumber" />
+      <mapping pattern="Migration20180604CleanUpEmbeddedResources" type="Groovy" />
       <mapping ext="ftlh" type="HTML" />
       <mapping ext="ftl" type="HTML" />
       <mapping pattern="*.json.ftl" type="JSON" />
@@ -13,6 +14,7 @@
       <removed_mapping ext="feature" type="Substeps" />
       <mapping ext="scxml" type="XML" />
       <mapping pattern="series-without-latest" type="YAML" />
+      <mapping pattern="high-charts-config" type="YAML" />
     </extensionMap>
   </component>
 </application>
