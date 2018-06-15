@@ -56,6 +56,7 @@
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.TogglePathShowing" />
   <action id="Find">
     <keyboard-shortcut first-keystroke="ctrl f" />
   </action>
@@ -118,11 +119,13 @@
   </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="ctrl alt space" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift ctrl f6" />
     <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
+  <action id="Print" />
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
