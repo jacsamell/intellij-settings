@@ -2,19 +2,21 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="less" type="CSS" />
+      <removed_mapping ext="ftl" type="FTL" />
+      <removed_mapping ext="ftlh" type="FTL" />
       <mapping pattern="Migration20180604CleanUpEmbeddedResources" type="Groovy" />
       <mapping ext="ftlh" type="HTML" />
       <mapping ext="ftl" type="HTML" />
       <mapping pattern="*.json.ftl" type="JSON" />
+      <removed_mapping ext="less" type="Less" />
       <mapping ext="csv" type="Native" />
       <mapping pattern="attachments-v3-test.yaml" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="mk" type="PLAIN_TEXT" />
-      <mapping ext="scss" type="PLAIN_TEXT" />
+      <removed_mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="scxml" type="XML" />
-      <mapping pattern="series-without-latest" type="YAML" />
       <mapping pattern="high-charts-config" type="YAML" />
-      <mapping ext="feature" type="Cucumber" />
+      <mapping pattern="series-without-latest" type="YAML" />
     </extensionMap>
   </component>
 </application>
