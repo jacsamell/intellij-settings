@@ -5,7 +5,6 @@
       <mapping pattern="*.json.ftl" type="JSON" />
       <mapping pattern="attachments-v3-test.yaml" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
-      <mapping ext="mk" type="PLAIN_TEXT" />
       <mapping ext="scxml" type="XML" />
       <mapping pattern="high-charts-config" type="YAML" />
       <mapping pattern="series-without-latest" type="YAML" />
