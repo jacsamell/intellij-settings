@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Outdated Kotlin Runtime" displayType="STICKY_BALLOON" />
+  </component>
+</application>
