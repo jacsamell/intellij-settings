@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="Migration20180604CleanUpEmbeddedResources" type="Groovy" />
       <mapping pattern="*.json.ftl" type="JSON" />
+      <mapping ext="wav" type="Native" />
       <mapping pattern="attachments-v3-test.yaml" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="scxml" type="XML" />
