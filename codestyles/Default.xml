@@ -1,5 +1,9 @@
 <code_scheme name="Default" version="173">
   <option name="AUTODETECT_INDENTS" value="false" />
+  <JSCodeStyleSettings>
+    <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
+    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
+  </JSCodeStyleSettings>
   <JavaCodeStyleSettings>
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="4" />
     <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="4" />
