@@ -31,5 +31,6 @@
     <mask>package*</mask>
     <mask>package-*</mask>
     <mask>*.rb</mask>
+    <mask>*config*</mask>
   </component>
 </application>

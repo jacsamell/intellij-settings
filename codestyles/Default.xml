@@ -26,6 +26,11 @@
     <option name="RIGHT_MARGIN" value="500" />
     <option name="BINARY_OPERATION_SIGN_ON_NEXT_LINE" value="true" />
   </codeStyleSettings>
+  <codeStyleSettings language="JSON">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="kotlin">
     <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
   </codeStyleSettings>
