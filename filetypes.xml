@@ -10,6 +10,7 @@
       <mapping pattern=".kitchenignore" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="attachments-v3-test.yaml" type="PLAIN_TEXT" />
+      <mapping pattern="tst" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="scxml" type="XML" />
