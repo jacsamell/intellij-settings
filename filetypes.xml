@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="Migration20180604CleanUpEmbeddedResources" type="Groovy" />
       <mapping pattern="*.json.ftl" type="JSON" />
       <mapping ext="wav" type="Native" />
