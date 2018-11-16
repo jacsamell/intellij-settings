@@ -1,0 +1,29 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2018-11-16T09:46:23</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2018.2.6.0.0</property>
+    <property name="modified">2018-11-16T11:49:36</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <attributes>
+    <option name="DIFF_CONFLICT">
+      <value>
+        <option name="BACKGROUND" value="733234" />
+        <option name="ERROR_STRIPE_COLOR" value="8f5247" />
+      </value>
+    </option>
+    <option name="DIFF_INSERTED">
+      <value>
+        <option name="BACKGROUND" value="2e5f2e" />
+        <option name="ERROR_STRIPE_COLOR" value="447152" />
+      </value>
+    </option>
+    <option name="DIFF_MODIFIED">
+      <value>
+        <option name="BACKGROUND" value="477596" />
+        <option name="ERROR_STRIPE_COLOR" value="43698d" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
