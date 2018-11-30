@@ -5,6 +5,7 @@
       <mapping pattern="Migration20180604CleanUpEmbeddedResources" type="Groovy" />
       <mapping pattern="*.json.ftl" type="JSON" />
       <mapping ext="wav" type="Native" />
+      <mapping ext="tar" type="Native" />
       <mapping pattern="attachments-v3-test.yaml" type="PLAIN_TEXT" />
       <mapping pattern="zzz" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
@@ -12,9 +13,9 @@
       <mapping pattern=".kitchenignore" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="tst" type="PLAIN_TEXT" />
-      <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="avsc" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="scxml" type="XML" />
       <mapping pattern="high-charts-config" type="YAML" />
