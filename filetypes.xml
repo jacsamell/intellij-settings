@@ -4,6 +4,7 @@
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="Migration20180604CleanUpEmbeddedResources" type="Groovy" />
       <mapping pattern="*.json.ftl" type="JSON" />
+      <mapping pattern=".sasslintrc" type="JSON" />
       <mapping ext="jks" type="Native" />
       <mapping ext="wav" type="Native" />
       <mapping ext="tar" type="Native" />
