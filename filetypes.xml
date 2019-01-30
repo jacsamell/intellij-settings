@@ -1,13 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="Migration20180604CleanUpEmbeddedResources" type="Groovy" />
       <mapping pattern="*.json.ftl" type="JSON" />
       <mapping pattern=".sasslintrc" type="JSON" />
-      <mapping ext="jks" type="Native" />
       <mapping ext="wav" type="Native" />
       <mapping ext="tar" type="Native" />
+      <mapping ext="jks" type="Native" />
       <mapping pattern="attachments-v3-test.yaml" type="PLAIN_TEXT" />
       <mapping pattern="zzz" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
@@ -17,6 +16,7 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="text" type="PLAIN_TEXT" />
       <mapping pattern="tst" type="PLAIN_TEXT" />
+      <mapping ext="bpg" type="PLAIN_TEXT" />
       <mapping ext="avsc" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
