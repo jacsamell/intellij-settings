@@ -9,6 +9,7 @@
       <mapping ext="jks" type="Native" />
       <mapping pattern="attachments-v3-test.yaml" type="PLAIN_TEXT" />
       <mapping pattern="zzz" type="PLAIN_TEXT" />
+      <mapping pattern="hi" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="ssh_knownhosts" type="PLAIN_TEXT" />
