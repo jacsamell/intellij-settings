@@ -55,7 +55,6 @@
   <action id="Diff.SelectedChange" />
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f12" />
-    <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="ctrl c" />
