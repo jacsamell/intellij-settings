@@ -11,7 +11,6 @@
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*stat*.yaml</mask>
-    <mask>*.feature</mask>
     <mask>readme</mask>
     <mask>pom.xml</mask>
     <mask>*.groovy</mask>
@@ -31,5 +30,6 @@
     <mask>*.css</mask>
     <mask>build.gradle</mask>
     <mask>*.scss</mask>
+    <mask>*.feature</mask>
   </component>
 </application>
