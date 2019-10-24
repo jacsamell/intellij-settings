@@ -1,12 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localWholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.tsx" />
     <mask>*stat*.yaml</mask>
     <mask>readme</mask>
     <mask>pom.xml</mask>
@@ -32,10 +31,10 @@
     <mask>*.kt</mask>
     <mask>*.json</mask>
     <mask>*.js</mask>
-    <mask>*.tsx</mask>
     <mask>*.ts</mask>
     <mask>*test.ts</mask>
     <mask>*test.tsx</mask>
     <mask>*tsx</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
