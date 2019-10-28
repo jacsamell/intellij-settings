@@ -2,7 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.kt" />
     <mask>*stat*.yaml</mask>
     <mask>readme</mask>
     <mask>pom.xml</mask>
@@ -25,7 +28,6 @@
     <mask>*.feature</mask>
     <mask>*.test.js</mask>
     <mask>*.scss</mask>
-    <mask>*.kt</mask>
     <mask>*.json</mask>
     <mask>*.js</mask>
     <mask>*.ts</mask>
@@ -33,5 +35,6 @@
     <mask>*test.tsx</mask>
     <mask>*tsx</mask>
     <mask>*.tsx</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
