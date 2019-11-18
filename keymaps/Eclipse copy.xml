@@ -55,7 +55,6 @@
   <action id="Diff.SelectedChange" />
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f12" />
-    <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="ctrl c" />
@@ -83,11 +82,16 @@
   <action id="EditorCompleteStatement" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl delete" />
+    <keyboard-shortcut first-keystroke="ctrl back_space" />
   </action>
   <action id="EditorDeleteToWordEnd" />
+  <action id="EditorDeleteToWordStart" />
   <action id="EditorSplitLine" />
   <action id="EvaluateExpression">
     <keyboard-shortcut first-keystroke="shift ctrl e" />
+  </action>
+  <action id="ExpressionTypeInfo">
+    <keyboard-shortcut first-keystroke="ctrl alt t" />
   </action>
   <action id="ExternalSystem.CollapseAll">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
@@ -168,6 +172,7 @@
   </action>
   <action id="RecentChangedFiles" />
   <action id="RecentFiles" />
+  <action id="RecentLocations" />
   <action id="RefactoringMenuRenameFile">
     <keyboard-shortcut first-keystroke="shift ctrl alt r" />
   </action>
@@ -212,6 +217,9 @@
   </action>
   <action id="StepOver">
     <keyboard-shortcut first-keystroke="f8" />
+  </action>
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="shift alt z" />
   </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchy.BaseOnThisType" />
