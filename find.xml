@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>readme</mask>
     <mask>pom.xml</mask>
     <mask>*.groovy</mask>
     <mask>sitemap.yaml</mask>
@@ -33,5 +32,6 @@
     <mask>*.tsx</mask>
     <mask>*.kt</mask>
     <mask>index.ts</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
