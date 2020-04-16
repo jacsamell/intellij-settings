@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>pom.xml</mask>
     <mask>*.groovy</mask>
     <mask>sitemap.yaml</mask>
@@ -25,7 +26,6 @@
     <mask>*.scss</mask>
     <mask>*.json</mask>
     <mask>*.js</mask>
-    <mask>*.ts</mask>
     <mask>*test.ts</mask>
     <mask>*test.tsx</mask>
     <mask>*tsx</mask>
@@ -33,5 +33,6 @@
     <mask>*.kt</mask>
     <mask>index.ts</mask>
     <mask>*.yml</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
