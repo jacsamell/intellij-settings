@@ -38,6 +38,10 @@
   </action>
   <action id="CompareTwoFiles" />
   <action id="Console.Execute.Multiline" />
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
   <action id="Debugger.PopFrame">
     <keyboard-shortcut first-keystroke="f6" />
   </action>
@@ -50,6 +54,7 @@
     <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
   <action id="Diff.SelectedChange" />
+  <action id="DirDiffMenu.SynchronizeDiff" />
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f12" />
   </action>
@@ -73,9 +78,7 @@
     <keyboard-shortcut first-keystroke="tab" />
   </action>
   <action id="EditorChooseLookupItemCompleteStatement" />
-  <action id="EditorChooseLookupItemReplace">
-    <keyboard-shortcut first-keystroke="enter" />
-  </action>
+  <action id="EditorChooseLookupItemReplace" />
   <action id="EditorCompleteStatement" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl delete" />
@@ -83,6 +86,7 @@
   </action>
   <action id="EditorDeleteToWordEnd" />
   <action id="EditorDeleteToWordStart" />
+  <action id="EditorEnter" />
   <action id="EditorSplitLine" />
   <action id="EvaluateExpression">
     <keyboard-shortcut first-keystroke="shift ctrl e" />
@@ -121,6 +125,7 @@
   <action id="Images.Editor.ZoomOut">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
+  <action id="Images.Thumbnails.EnterAction" />
   <action id="ImplementMethods" />
   <action id="IncrementalSearch" />
   <action id="IntroduceConstant">
