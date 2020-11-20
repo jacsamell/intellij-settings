@@ -9,6 +9,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>pom.xml</mask>
     <mask>*.groovy</mask>
     <mask>sitemap.yaml</mask>
@@ -36,8 +37,8 @@
     <mask>*.tsx</mask>
     <mask>*.kt</mask>
     <mask>index.ts</mask>
-    <mask>*.yml</mask>
     <mask>*.js</mask>
     <mask>*.ts</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
