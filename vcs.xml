@@ -14,9 +14,13 @@
           <option name="url" value="git@github.com:infinityworks/iw-tech-test.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:fares-data-build-tool/fdbt-dev.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/dev" />
+    <option name="cloneParentDir" value="$USER_HOME$/dev/dft" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_DIFF_PREVIEW" value="true" />
