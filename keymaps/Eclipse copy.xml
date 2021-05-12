@@ -17,6 +17,7 @@
     <keyboard-shortcut first-keystroke="ctrl z" />
     <keyboard-shortcut first-keystroke="meta z" />
   </action>
+  <action id="ActivateFindToolWindow" />
   <action id="AddToFavoritesPopup" />
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
