@@ -1,18 +1,22 @@
 <code_scheme name="hitachi" version="173">
   <option name="AUTODETECT_INDENTS" value="false" />
-  <DB2CodeStyleSettings version="2">
+  <DB2CodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SELECT_USE_AS_WORD" value="1" />
     <option name="SELECT_ALIGN_AS" value="false" />
   </DB2CodeStyleSettings>
-  <DerbyCodeStyleSettings version="2">
+  <DerbyCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SELECT_USE_AS_WORD" value="1" />
     <option name="SELECT_ALIGN_AS" value="false" />
   </DerbyCodeStyleSettings>
-  <H2CodeStyleSettings version="2">
+  <H2CodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SELECT_USE_AS_WORD" value="1" />
     <option name="SELECT_ALIGN_AS" value="false" />
   </H2CodeStyleSettings>
-  <HSQLCodeStyleSettings version="2">
+  <HSQLCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SELECT_USE_AS_WORD" value="1" />
     <option name="SELECT_ALIGN_AS" value="false" />
   </HSQLCodeStyleSettings>
@@ -45,31 +49,37 @@
     <option name="NAME_COUNT_TO_USE_STAR_IMPORT_FOR_MEMBERS" value="2147483647" />
     <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
   </JetCodeStyleSettings>
-  <MSSQLCodeStyleSettings version="2">
+  <MSSQLCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SELECT_USE_AS_WORD" value="1" />
     <option name="SELECT_ALIGN_AS" value="false" />
   </MSSQLCodeStyleSettings>
-  <MySQLCodeStyleSettings version="2">
+  <MySQLCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SELECT_USE_AS_WORD" value="1" />
     <option name="SELECT_ALIGN_AS" value="false" />
   </MySQLCodeStyleSettings>
-  <OracleCodeStyleSettings version="2">
+  <OracleCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SELECT_USE_AS_WORD" value="1" />
     <option name="SELECT_ALIGN_AS" value="false" />
   </OracleCodeStyleSettings>
-  <PostgresCodeStyleSettings version="2">
+  <PostgresCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SELECT_USE_AS_WORD" value="1" />
     <option name="SELECT_ALIGN_AS" value="false" />
   </PostgresCodeStyleSettings>
-  <SQLiteCodeStyleSettings version="2">
+  <SQLiteCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SELECT_USE_AS_WORD" value="1" />
     <option name="SELECT_ALIGN_AS" value="false" />
   </SQLiteCodeStyleSettings>
-  <SqlCodeStyleSettings version="2">
+  <SqlCodeStyleSettings version="5">
     <option name="SELECT_USE_AS_WORD" value="1" />
     <option name="SELECT_ALIGN_AS" value="false" />
   </SqlCodeStyleSettings>
-  <SybaseCodeStyleSettings version="2">
+  <SybaseCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SELECT_USE_AS_WORD" value="1" />
     <option name="SELECT_ALIGN_AS" value="false" />
   </SybaseCodeStyleSettings>
@@ -77,6 +87,7 @@
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="IMPORT_SORT_MODULE_NAME" value="true" />
+    <option name="USE_PATH_MAPPING" value="NEVER" />
   </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="CALL_PARAMETERS_WRAP" value="5" />
@@ -108,11 +119,6 @@
     <option name="DOWHILE_BRACE_FORCE" value="3" />
     <option name="WHILE_BRACE_FORCE" value="3" />
     <option name="FOR_BRACE_FORCE" value="3" />
-    <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="2" />
-      <option name="TAB_SIZE" value="2" />
-    </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="kotlin">
     <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
