@@ -14,7 +14,7 @@
           <array />
         </option>
         <option name="outputFromStdout" value="false" />
-        <option name="program" value="$ProjectFileDir$/repos/fdbt-site/node_modules/prettier/bin-prettier.js" />
+        <option name="program" value="$ProjectFileDir$/repos/fdbt-netex-output/node_modules/prettier/bin-prettier.js" />
         <option name="runOnExternalChanges" value="false" />
         <option name="scopeName" value="Recently Changed Files" />
         <option name="trackOnlyRoot" value="false" />
