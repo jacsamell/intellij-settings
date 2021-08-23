@@ -265,6 +265,7 @@
     <keyboard-shortcut first-keystroke="f12" />
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="context.load" />
   <action id="hg4idea.QPushAction" />
   <action id="tasks.switch" />
 </keymap>
