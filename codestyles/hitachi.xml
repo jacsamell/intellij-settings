@@ -1,21 +1,26 @@
 <code_scheme name="hitachi" version="173">
   <option name="AUTODETECT_INDENTS" value="false" />
-  <DB2CodeStyleSettings version="5">
+  <DB2CodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SELECT_USE_AS_WORD" value="1" />
     <option name="SELECT_ALIGN_AS" value="false" />
   </DB2CodeStyleSettings>
-  <DerbyCodeStyleSettings version="5">
+  <DerbyCodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SELECT_USE_AS_WORD" value="1" />
     <option name="SELECT_ALIGN_AS" value="false" />
   </DerbyCodeStyleSettings>
-  <H2CodeStyleSettings version="5">
+  <H2CodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SELECT_USE_AS_WORD" value="1" />
     <option name="SELECT_ALIGN_AS" value="false" />
   </H2CodeStyleSettings>
-  <HSQLCodeStyleSettings version="5">
+  <H2CodeStyleSettings version="6">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="SELECT_USE_AS_WORD" value="1" />
+    <option name="SELECT_ALIGN_AS" value="false" />
+  </H2CodeStyleSettings>
+  <HSQLCodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SELECT_USE_AS_WORD" value="1" />
     <option name="SELECT_ALIGN_AS" value="false" />
@@ -26,6 +31,9 @@
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="IMPORT_PREFER_ABSOLUTE_PATH" value="TRUE" />
   </JSCodeStyleSettings>
+  <JSON>
+    <option name="ARRAY_WRAPPING" value="0" />
+  </JSON>
   <JavaCodeStyleSettings>
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="4" />
     <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="4" />
@@ -49,36 +57,36 @@
     <option name="NAME_COUNT_TO_USE_STAR_IMPORT_FOR_MEMBERS" value="2147483647" />
     <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
   </JetCodeStyleSettings>
-  <MSSQLCodeStyleSettings version="5">
+  <MSSQLCodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SELECT_USE_AS_WORD" value="1" />
     <option name="SELECT_ALIGN_AS" value="false" />
   </MSSQLCodeStyleSettings>
-  <MySQLCodeStyleSettings version="5">
+  <MySQLCodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SELECT_USE_AS_WORD" value="1" />
     <option name="SELECT_ALIGN_AS" value="false" />
   </MySQLCodeStyleSettings>
-  <OracleCodeStyleSettings version="5">
+  <OracleCodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SELECT_USE_AS_WORD" value="1" />
     <option name="SELECT_ALIGN_AS" value="false" />
   </OracleCodeStyleSettings>
-  <PostgresCodeStyleSettings version="5">
+  <PostgresCodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SELECT_USE_AS_WORD" value="1" />
     <option name="SELECT_ALIGN_AS" value="false" />
   </PostgresCodeStyleSettings>
-  <SQLiteCodeStyleSettings version="5">
+  <SQLiteCodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SELECT_USE_AS_WORD" value="1" />
     <option name="SELECT_ALIGN_AS" value="false" />
   </SQLiteCodeStyleSettings>
-  <SqlCodeStyleSettings version="5">
+  <SqlCodeStyleSettings version="6">
     <option name="SELECT_USE_AS_WORD" value="1" />
     <option name="SELECT_ALIGN_AS" value="false" />
   </SqlCodeStyleSettings>
-  <SybaseCodeStyleSettings version="5">
+  <SybaseCodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SELECT_USE_AS_WORD" value="1" />
     <option name="SELECT_ALIGN_AS" value="false" />
@@ -101,6 +109,8 @@
     <option name="ASSIGNMENT_WRAP" value="1" />
   </codeStyleSettings>
   <codeStyleSettings language="JSON">
+    <option name="RIGHT_MARGIN" value="240" />
+    <option name="KEEP_LINE_BREAKS" value="false" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="TAB_SIZE" value="2" />
