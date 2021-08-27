@@ -27,7 +27,6 @@
     <mask>*.feature</mask>
     <mask>*.test.js</mask>
     <mask>*.scss</mask>
-    <mask>*.json</mask>
     <mask>*test.ts</mask>
     <mask>*test.tsx</mask>
     <mask>*tsx</mask>
@@ -39,5 +38,6 @@
     <mask>*.ts</mask>
     <mask>*.tsx</mask>
     <mask>*.yml</mask>
+    <mask>*.json</mask>
   </component>
 </application>
