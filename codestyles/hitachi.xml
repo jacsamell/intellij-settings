@@ -30,9 +30,6 @@
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </JSCodeStyleSettings>
-  <JSON>
-    <option name="ARRAY_WRAPPING" value="0" />
-  </JSON>
   <JavaCodeStyleSettings>
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="4" />
     <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="4" />
@@ -108,12 +105,7 @@
     <option name="ASSIGNMENT_WRAP" value="1" />
   </codeStyleSettings>
   <codeStyleSettings language="JSON">
-    <option name="RIGHT_MARGIN" value="240" />
-    <option name="KEEP_LINE_BREAKS" value="false" />
-    <indentOptions>
-      <option name="CONTINUATION_INDENT_SIZE" value="4" />
-      <option name="TAB_SIZE" value="2" />
-    </indentOptions>
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="2" />
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="RIGHT_MARGIN" value="300" />
