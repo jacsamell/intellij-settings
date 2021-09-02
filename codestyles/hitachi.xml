@@ -29,6 +29,8 @@
     <option name="SPACE_BEFORE_FUNCTION_LEFT_PARENTH" value="false" />
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
+    <option name="IMPORT_SORT_MEMBERS" value="false" />
+    <option name="USE_PATH_MAPPING" value="NEVER" />
   </JSCodeStyleSettings>
   <JavaCodeStyleSettings>
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="4" />
@@ -88,6 +90,7 @@
     <option name="SELECT_ALIGN_AS" value="false" />
   </SybaseCodeStyleSettings>
   <TypeScriptCodeStyleSettings version="0">
+    <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="IMPORT_SORT_MEMBERS" value="false" />
