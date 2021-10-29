@@ -108,6 +108,7 @@
     <option name="ASSIGNMENT_WRAP" value="1" />
   </codeStyleSettings>
   <codeStyleSettings language="JSON">
+    <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="2" />
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
