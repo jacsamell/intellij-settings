@@ -4,7 +4,6 @@
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
       <mapping pattern=".env.*" type="Env File" />
       <mapping ext="env" type="Env File" />
-      <removed_mapping pattern=".env" type="Env File" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -18,7 +17,6 @@
       <mapping pattern="dynamoClient" type="TypeScript" />
       <mapping pattern="generateHashedSecrets" type="TypeScript" />
       <mapping pattern="tokenHandler.ts" type="TypeScript" />
-      <mapping ext="qrc" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
@@ -29,6 +27,7 @@
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
+      <removed_mapping pattern=".env" approved="true" type="Env File" />
       <mapping pattern="product*.txt" type="CSV" />
       <mapping pattern="supplier-*.txt" type="CSV" />
     </extensionMap>
