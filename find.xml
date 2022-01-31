@@ -4,10 +4,12 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="skipResultsWithOneUsage" value="true" />
+    <option name="wholeWordsOnly" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.cnd</mask>
+    <option name="FILE_MASK" value="*.py" />
     <mask>*.prop*</mask>
     <mask>*.yaml</mask>
     <mask>*.mk</mask>
@@ -37,5 +39,6 @@
     <mask>*.ts</mask>
     <mask>*.tsx</mask>
     <mask>*.ts*</mask>
+    <mask>*.py</mask>
   </component>
 </application>
