@@ -33,9 +33,9 @@
     <mask>package.json</mask>
     <mask>*.json</mask>
     <mask>*.yml</mask>
-    <mask>*.ts</mask>
     <mask>*.tsx</mask>
     <mask>*.ts*</mask>
     <mask>*.py</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
