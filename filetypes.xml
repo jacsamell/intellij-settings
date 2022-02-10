@@ -1,19 +1,19 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="processTelemetry" type="AUTO_DETECTED" />
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
+      <mapping pattern="processTelemetry" type="AUTO_DETECTED" />
       <mapping pattern=".env.*" type="Env File" />
       <mapping ext="env" type="Env File" />
       <mapping ext="geojson" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="services" type="PLAIN_TEXT" />
-      <mapping pattern="xxx" type="PLAIN_TEXT" />
       <mapping pattern="7za" type="PLAIN_TEXT" />
       <mapping pattern=".env.prod" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="services" type="PLAIN_TEXT" />
+      <mapping pattern="xxx" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping pattern="cfd-bastion-tunnel" type="Shell Script" />
       <mapping pattern="dynamoClient" type="TypeScript" />
