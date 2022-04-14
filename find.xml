@@ -9,7 +9,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.prop*</mask>
+    <option name="FILE_MASK" value="*.graphql" />
     <mask>*.yaml</mask>
     <mask>*.mk</mask>
     <mask>*page.yaml</mask>
@@ -39,5 +39,6 @@
     <mask>*.py</mask>
     <mask>*.json</mask>
     <mask>*.ts</mask>
+    <mask>*.graphql</mask>
   </component>
 </application>
