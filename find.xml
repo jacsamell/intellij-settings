@@ -33,9 +33,9 @@
     <mask>*.tsx</mask>
     <mask>*.ts*</mask>
     <mask>*.py</mask>
-    <mask>*.json</mask>
     <mask>*.graphql</mask>
     <mask>lib/*.ts</mask>
     <mask>*.ts</mask>
+    <mask>*.json</mask>
   </component>
 </application>
