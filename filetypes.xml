@@ -5,6 +5,7 @@
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
       <mapping pattern="io" type="AUTO_DETECTED" />
       <mapping pattern="processTelemetry" type="AUTO_DETECTED" />
+      <mapping pattern="generateUrl" type="AUTO_DETECTED" />
       <mapping pattern=".env.*" type="Env File" />
       <mapping ext="env" type="Env File" />
       <mapping ext="geojson" type="JSON" />
