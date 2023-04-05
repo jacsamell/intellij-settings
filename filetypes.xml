@@ -5,6 +5,7 @@
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
       <mapping pattern="io" type="AUTO_DETECTED" />
       <mapping pattern="processTelemetry" type="AUTO_DETECTED" />
+      <mapping pattern=".npmrc" type="AUTO_DETECTED" />
       <mapping pattern="generateUrl" type="AUTO_DETECTED" />
       <mapping ext="geojson" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
