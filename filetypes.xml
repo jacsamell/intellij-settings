@@ -7,6 +7,8 @@
       <mapping pattern="processTelemetry" type="AUTO_DETECTED" />
       <mapping pattern=".npmrc" type="AUTO_DETECTED" />
       <mapping pattern="generateUrl" type="AUTO_DETECTED" />
+      <mapping pattern=".env.*" type="Env File" />
+      <mapping ext="env" type="Env File" />
       <mapping ext="geojson" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="space.kts" type="Kotlin" />
@@ -37,8 +39,6 @@
       <removed_mapping pattern=".dockerignore" approved="true" type="Docker File" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
       <removed_mapping pattern=".env" approved="true" type="Env File" />
-      <mapping ext="env" type="Env File" />
-      <mapping pattern=".env.*" type="Env File" />
       <mapping pattern="product*.txt" type="CSV" />
       <mapping pattern="supplier-*.txt" type="CSV" />
     </extensionMap>
