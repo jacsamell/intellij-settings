@@ -1,5 +1,7 @@
 <application>
   <component name="DatabaseSettings" version="9">
+    <option name="page-size" value="2000" />
+    <option name="page-size-updated-timestamp" value="1683646565412" />
     <option name="ddl-editor-confirm-loss" value="false" />
     <exec-options>
       <exec-option exec-inside="2" />
