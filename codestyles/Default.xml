@@ -15,11 +15,6 @@
     <option name="SELECT_USE_AS_WORD" value="1" />
     <option name="SELECT_ALIGN_AS" value="false" />
   </H2CodeStyleSettings>
-  <H2CodeStyleSettings version="6">
-    <option name="USE_GENERAL_STYLE" value="false" />
-    <option name="SELECT_USE_AS_WORD" value="1" />
-    <option name="SELECT_ALIGN_AS" value="false" />
-  </H2CodeStyleSettings>
   <HSQLCodeStyleSettings version="6">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SELECT_USE_AS_WORD" value="1" />
