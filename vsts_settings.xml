@@ -12,14 +12,6 @@
           <option name="gitRepository" value="{&quot;defaultBranch&quot;:&quot;refs/heads/develop&quot;,&quot;id&quot;:&quot;f9051d7c-a2c0-417f-820d-6ad1f2b2fb56&quot;,&quot;name&quot;:&quot;compintelmonitoring-infrastructure&quot;,&quot;remoteUrl&quot;:&quot;https://mmitdev.visualstudio.com/CompIntelMonitoring/_git/compintelmonitoring-infrastructure&quot;,&quot;url&quot;:&quot;https://mmitdev.visualstudio.com/a291727a-e55d-4158-aa5d-37bcfca41524/_apis/git/repositories/f9051d7c-a2c0-417f-820d-6ad1f2b2fb56&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;a291727a-e55d-4158-aa5d-37bcfca41524&quot;,&quot;name&quot;:&quot;CompIntelMonitoring&quot;,&quot;revision&quot;:1168,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://mmitdev.visualstudio.com/_apis/projects/a291727a-e55d-4158-aa5d-37bcfca41524&quot;},&quot;_links&quot;:null}" />
         </ServerContextState>
         <ServerContextState>
-          <option name="type" value="VSO_DEPLOYMENT" />
-          <option name="uri" value="https://app.vssps.visualstudio.com" />
-          <option name="serverUri" value="https://app.vssps.visualstudio.com" />
-          <option name="userId" value="144380ea-ef39-64b2-9948-8cf807e74669" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
-        </ServerContextState>
-        <ServerContextState>
           <option name="type" value="VSO" />
           <option name="uri" value="https://mmitdev.visualstudio.com/CompIntelMonitoring/_git/compintelmonitoring-web" />
           <option name="serverUri" value="https://mmitdev.visualstudio.com" />
