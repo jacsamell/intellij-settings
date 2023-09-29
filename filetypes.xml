@@ -14,6 +14,7 @@
       <mapping pattern="7za" type="PLAIN_TEXT" />
       <mapping pattern=".env.prod" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".env.application" type="PLAIN_TEXT" />
       <mapping pattern="services" type="PLAIN_TEXT" />
       <mapping pattern="xxx" type="PLAIN_TEXT" />
       <mapping ext="ramindex" type="PLAIN_TEXT" />
