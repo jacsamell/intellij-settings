@@ -34,12 +34,12 @@
     <option name="properties">
       <array>
         <PropertyState>
-          <option name="name" value="repoRoot" />
-          <option name="value" value="$USER_HOME$/dev" />
-        </PropertyState>
-        <PropertyState>
           <option name="name" value="lastContextKey" />
           <option name="value" value="//mmitdev.visualstudio.com/compintelmonitoring/_git/compintelmonitoring-web" />
+        </PropertyState>
+        <PropertyState>
+          <option name="name" value="repoRoot" />
+          <option name="value" value="$USER_HOME$/dev" />
         </PropertyState>
       </array>
     </option>
