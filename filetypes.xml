@@ -3,16 +3,13 @@
     <extensionMap>
       <mapping pattern="run" type="AUTO_DETECTED" />
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
+      <mapping pattern="generateUrl" type="AUTO_DETECTED" />
       <mapping pattern="io" type="AUTO_DETECTED" />
       <mapping pattern="processTelemetry" type="AUTO_DETECTED" />
       <mapping pattern=".npmrc" type="AUTO_DETECTED" />
-      <mapping pattern="generateUrl" type="AUTO_DETECTED" />
       <mapping ext="geojson" type="JSON" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="space.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="7za" type="PLAIN_TEXT" />
       <mapping pattern=".env.prod" type="PLAIN_TEXT" />
+      <mapping pattern="7za" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".env.application" type="PLAIN_TEXT" />
       <mapping pattern="services" type="PLAIN_TEXT" />
@@ -20,7 +17,6 @@
       <mapping ext="ramindex" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
-      <mapping pattern="cfd-bastion-tunnel" type="Shell Script" />
       <mapping pattern="dynamoClient" type="TypeScript" />
       <mapping pattern="generateHashedSecrets" type="TypeScript" />
       <mapping pattern="tokenHandler.ts" type="TypeScript" />
@@ -42,6 +38,10 @@
       <removed_mapping pattern=".env" approved="true" type=".env file" />
       <removed_mapping pattern=".env" approved="true" type="Env File" />
       <removed_mapping pattern=".env.*" approved="true" type=".env file" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping pattern="cfd-bastion-tunnel" type="Shell Script" />
       <mapping pattern="product*.txt" type="CSV" />
       <mapping pattern="supplier-*.txt" type="CSV" />
     </extensionMap>
