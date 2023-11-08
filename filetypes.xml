@@ -7,7 +7,6 @@
       <mapping pattern="io" type="AUTO_DETECTED" />
       <mapping pattern="processTelemetry" type="AUTO_DETECTED" />
       <mapping pattern=".npmrc" type="AUTO_DETECTED" />
-      <mapping pattern=".prettierrc" type="JSON" />
       <mapping ext="geojson" type="JSON" />
       <mapping pattern=".env.prod" type="PLAIN_TEXT" />
       <mapping pattern="7za" type="PLAIN_TEXT" />
