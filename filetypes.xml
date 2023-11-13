@@ -3,20 +3,11 @@
     <extensionMap>
       <mapping pattern="run" type="AUTO_DETECTED" />
       <mapping pattern="LICENSE" type="AUTO_DETECTED" />
-      <mapping pattern="generateUrl" type="AUTO_DETECTED" />
       <mapping pattern="io" type="AUTO_DETECTED" />
       <mapping pattern="processTelemetry" type="AUTO_DETECTED" />
       <mapping pattern=".npmrc" type="AUTO_DETECTED" />
+      <mapping pattern="generateUrl" type="AUTO_DETECTED" />
       <mapping ext="geojson" type="JSON" />
-      <mapping pattern=".env.prod" type="PLAIN_TEXT" />
-      <mapping pattern="7za" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern=".env.application" type="PLAIN_TEXT" />
-      <mapping pattern="services" type="PLAIN_TEXT" />
-      <mapping pattern="xxx" type="PLAIN_TEXT" />
-      <mapping ext="ramindex" type="PLAIN_TEXT" />
-      <mapping ext="template" type="PLAIN_TEXT" />
-      <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping pattern="dynamoClient" type="TypeScript" />
       <mapping pattern="generateHashedSecrets" type="TypeScript" />
       <mapping pattern="tokenHandler.ts" type="TypeScript" />
@@ -31,13 +22,22 @@
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="pdf" approved="true" type="Native" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="ramindex" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping ext="template" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="woff" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".dockerignore" approved="true" type="Docker File" />
       <removed_mapping pattern=".dockerignore" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
       <removed_mapping pattern=".env" approved="true" type="Env File" />
+      <removed_mapping pattern=".env" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env.*" approved="true" type=".env file" />
+      <removed_mapping pattern=".env.application" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".env.prod" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="7za" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="services" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="xxx" approved="true" type="PLAIN_TEXT" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="space.kts" type="Kotlin" />
