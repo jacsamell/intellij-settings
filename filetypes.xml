@@ -7,6 +7,7 @@
       <mapping pattern="io" type="AUTO_DETECTED" />
       <mapping pattern="processTelemetry" type="AUTO_DETECTED" />
       <mapping pattern=".npmrc" type="AUTO_DETECTED" />
+      <mapping ext="0-darwin-arm64" type="AUTO_DETECTED" />
       <mapping ext="geojson" type="JSON" />
       <mapping pattern="dynamoClient" type="TypeScript" />
       <mapping pattern="generateHashedSecrets" type="TypeScript" />
