@@ -9,7 +9,6 @@
       <mapping pattern=".npmrc" type="AUTO_DETECTED" />
       <mapping ext="0-darwin-arm64" type="AUTO_DETECTED" />
       <mapping ext="geojson" type="JSON" />
-      <removed_mapping ext="xlsx" type="Native" />
       <mapping pattern="cfd-bastion-tunnel" type="Shell Script" />
       <mapping pattern="dynamoClient" type="TypeScript" />
       <mapping pattern="generateHashedSecrets" type="TypeScript" />
@@ -17,6 +16,7 @@
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
       <removed_mapping ext="env" approved="true" type=".env file" />
@@ -30,6 +30,7 @@
       <removed_mapping ext="template" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="woff" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="xls" approved="true" type="Native" />
       <removed_mapping pattern=".dockerignore" approved="true" type="Docker File" />
       <removed_mapping pattern=".dockerignore" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
