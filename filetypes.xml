@@ -9,6 +9,7 @@
       <mapping pattern=".npmrc" type="AUTO_DETECTED" />
       <mapping ext="0-darwin-arm64" type="AUTO_DETECTED" />
       <mapping ext="geojson" type="JSON" />
+      <removed_mapping ext="xlsx" type="Native" />
       <mapping pattern="cfd-bastion-tunnel" type="Shell Script" />
       <mapping pattern="dynamoClient" type="TypeScript" />
       <mapping pattern="generateHashedSecrets" type="TypeScript" />
