@@ -9,7 +9,6 @@
       <mapping pattern=".npmrc" type="AUTO_DETECTED" />
       <mapping ext="0-darwin-arm64" type="AUTO_DETECTED" />
       <mapping ext="geojson" type="JSON" />
-      <removed_mapping ext="xlsx" type="Native" />
       <mapping pattern="cfd-bastion-tunnel" type="Shell Script" />
       <mapping pattern="dynamoClient" type="TypeScript" />
       <mapping pattern="generateHashedSecrets" type="TypeScript" />
@@ -30,6 +29,7 @@
       <removed_mapping ext="template" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="woff" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="xlsx" approved="true" type="Native" />
       <removed_mapping pattern=".dockerignore" approved="true" type="Docker File" />
       <removed_mapping pattern=".dockerignore" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
