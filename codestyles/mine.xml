@@ -1,20 +1,20 @@
 <code_scheme name="mine" version="173">
-  <DB2CodeStyleSettings version="6">
+  <DB2CodeStyleSettings version="7">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SELECT_USE_AS_WORD" value="1" />
     <option name="SELECT_ALIGN_AS" value="false" />
   </DB2CodeStyleSettings>
-  <DerbyCodeStyleSettings version="6">
+  <DerbyCodeStyleSettings version="7">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SELECT_USE_AS_WORD" value="1" />
     <option name="SELECT_ALIGN_AS" value="false" />
   </DerbyCodeStyleSettings>
-  <H2CodeStyleSettings version="6">
+  <H2CodeStyleSettings version="7">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SELECT_USE_AS_WORD" value="1" />
     <option name="SELECT_ALIGN_AS" value="false" />
   </H2CodeStyleSettings>
-  <HSQLCodeStyleSettings version="6">
+  <HSQLCodeStyleSettings version="7">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SELECT_USE_AS_WORD" value="1" />
     <option name="SELECT_ALIGN_AS" value="false" />
@@ -53,32 +53,32 @@
     <option name="NAME_COUNT_TO_USE_STAR_IMPORT_FOR_MEMBERS" value="2147483647" />
     <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
   </JetCodeStyleSettings>
-  <MSSQLCodeStyleSettings version="6">
+  <MSSQLCodeStyleSettings version="7">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SELECT_USE_AS_WORD" value="1" />
     <option name="SELECT_ALIGN_AS" value="false" />
   </MSSQLCodeStyleSettings>
-  <MySQLCodeStyleSettings version="6">
+  <MySQLCodeStyleSettings version="7">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SELECT_USE_AS_WORD" value="1" />
     <option name="SELECT_ALIGN_AS" value="false" />
   </MySQLCodeStyleSettings>
-  <OracleCodeStyleSettings version="6">
+  <OracleCodeStyleSettings version="7">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SELECT_USE_AS_WORD" value="1" />
     <option name="SELECT_ALIGN_AS" value="false" />
   </OracleCodeStyleSettings>
-  <PostgresCodeStyleSettings version="6">
+  <PostgresCodeStyleSettings version="7">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SELECT_USE_AS_WORD" value="1" />
     <option name="SELECT_ALIGN_AS" value="false" />
   </PostgresCodeStyleSettings>
-  <SQLiteCodeStyleSettings version="6">
+  <SQLiteCodeStyleSettings version="7">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SELECT_USE_AS_WORD" value="1" />
     <option name="SELECT_ALIGN_AS" value="false" />
   </SQLiteCodeStyleSettings>
-  <SqlCodeStyleSettings version="6">
+  <SqlCodeStyleSettings version="7">
     <option name="KEYWORD_CASE" value="2" />
     <option name="IDENTIFIER_CASE" value="2" />
     <option name="TYPE_CASE" value="2" />
@@ -88,7 +88,7 @@
     <option name="SELECT_USE_AS_WORD" value="1" />
     <option name="SELECT_ALIGN_AS" value="false" />
   </SqlCodeStyleSettings>
-  <SybaseCodeStyleSettings version="6">
+  <SybaseCodeStyleSettings version="7">
     <option name="USE_GENERAL_STYLE" value="false" />
     <option name="SELECT_USE_AS_WORD" value="1" />
     <option name="SELECT_ALIGN_AS" value="false" />
